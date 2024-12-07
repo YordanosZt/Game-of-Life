@@ -12,9 +12,9 @@ int main()
 {
     int windowWidth = 600;
     int windowHeight = 700;
-    int rowTot = 60;
-    int colTot = 60;
-    int cellSize = 10;
+    int rowTot = 120;
+    int colTot = 120;
+    int cellSize = 5;
     bool run = false;
 
     int generation = 0;
